@@ -40,7 +40,7 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  -color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
@@ -65,7 +65,7 @@ h1 {
   margin: 0.67em 0;
 }
 mark {
-  background-color: #ff0;
+  background-color: #f00;
   color: #000;
 }
 small {

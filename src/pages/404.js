@@ -2,6 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import seeyou from "../images/seeyou.png"
 
 const NotFoundPage = () => (
   <Layout>

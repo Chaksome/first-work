@@ -1,6 +1,7 @@
 module.exports = {
+  plugins: [`gatsby-plugin-emotion`],
   siteMetadata: {
-    title: `Please do not ask me question again!`,
+    title: `Welcome to 🏡Charles`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
